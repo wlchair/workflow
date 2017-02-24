@@ -1,0 +1,1 @@
+var data_user = new Data();

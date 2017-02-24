@@ -1,0 +1,1 @@
+var data_priv = new Data();
